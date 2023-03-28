@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently Frontend React Developer
+I am currently Frontend React Developer at Kameleoon
 
 
 # 💻 Tech Stack:
